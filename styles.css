@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+.body {
+    background-color: #121212;
+    font-family: 'Montserrat', sans-serif;
+}
+.box {
+    height: 60%;
+    width: 60%;
+    background-color: #212121;
+    border-radius: 10px;
+    border: 1px solid #292929;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    padding: 40px;
+    position: absolute;
+}
+.logo {
+    background-image: url("https://xostme.com/img/logo.png");
+    background-size: cover;
+    height: 53px;
+    width: 160px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    margin-bottom: 100px;
+    display: block;
+}
+.title {
+    color: tomato;
+    font-size: 50px;
+    text-align: center;
+    width: 100% !important;
+    font-weight: bold;
+    display: block;
+    margin-bottom: 40px;
+}
+.content {
+    color: whitesmoke;
+    text-align: center;
+    display: block;
+    font-size: 25px;
+    width: 100%;
+    margin-bottom: 60px;
+}
+.loader {
+    background-image: url("https://samherbert.net/svg-loaders/svg-loaders/grid.svg");
+    background-size: cover;
+    left: 0;
+    right: 0;
+    margin: auto;
+    height: 128px;
+    width: 128px;
+}
